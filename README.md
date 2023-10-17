@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @redrickh
-- 👀 I’m interested in Mostly Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on beginner projects.
-- 📫 How to reach me ... Here.
+Hi, I'm Redrick! My primary interest lies in Python these days. I'm currently dedicating my time to learning Python and I'm open to collaborating on beginner-level projects where I can apply my newfound knowledge. If you have any questions or want to get in touch, feel free to reach out! 👋
 
 <!---
 redrickh/redrickh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
