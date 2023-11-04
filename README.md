@@ -20,7 +20,7 @@
 
 <!-- Kreatívabb színes gombok -->
 <p align="center">
-    <a href="mailto:your.email@example.com">
+    <a href="mailto: redrick555@gmail.com">
         <img src="https://img.shields.io/badge/Contact-Me-green?style=for-the-badge&logo=gmail">
     </a>
     <a href="https://github.com/Redrickh">
